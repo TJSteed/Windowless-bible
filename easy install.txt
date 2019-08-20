@@ -4,3 +4,5 @@ download .exe files and save
 folder they will run.. you can only save one (BIBLEBOOK).exe to that folder at a time.\
 
 save one .exe to that startup folder and restart your computer.
+
+enjoy that book and change it as you please.
